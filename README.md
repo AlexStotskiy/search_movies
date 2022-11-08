@@ -9,8 +9,8 @@ This is my practical project to create a search movies app.
 
 ## Links
 
--   Solution URL: [solution](https://github.com/AlexStotskiy/ip_address_tracker)
--   Live Site URL: [live site](https://ipaddresstracker-five.vercel.app/)
+-   Solution URL: [solution](https://github.com/AlexStotskiy/search_movies)
+-   Live Site URL: [live site](https://alexstotskiy.github.io/search_movies)
 
 ## Built with
 
